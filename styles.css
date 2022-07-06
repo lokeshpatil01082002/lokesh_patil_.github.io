@@ -1,0 +1,93 @@
+
+nav{
+    width: 100%;
+    float: left;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+h1{
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    margin: 0;
+}
+.menu
+{
+    margin: 0;
+    padding: 15px;
+    height: 21px;
+    background-color: aqua;
+}
+
+.menu li
+{
+    display: inline;
+}
+
+
+.button
+{
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: none;
+    padding: 8px;
+    color: blue;
+    text-decoration: none;
+}
+
+
+.button:hover
+{
+    background-color: burlywood;
+}
+* header{
+    background-color: lightblue;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+}
+#ulid
+{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#i1
+{
+    background-color: rgba(58, 19, 52, 0.474);
+}
+#i2
+{
+    background-color: rgba(135, 198, 40, 0.66);
+}
+#i3
+{
+    background-color: rgba(112, 120, 47, 0.779);
+}
+#i4
+{
+    background-color: rgba(62, 117, 17, 0.72);
+}
+#i5
+{
+    background-color: rgba(212, 133, 133, 0.862);
+}
+#i6
+{
+    background-color: rgb(72, 70, 76);
+}
+#img1
+{
+    border-radius: 5%;
+    border: 0.5cm;
+}
+#prid
+{
+   font-size: 1.3em;
+   font-family: 'Times New Roman', Times, serif;
+}
+
